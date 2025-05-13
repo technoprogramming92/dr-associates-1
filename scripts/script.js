@@ -1,6 +1,6 @@
 /* 
  * ===========================================================
- * MAIN SCRIPT- FRAMEWORK Y
+ * MAIN SCRIPT-  
  * ===========================================================
  * This script manage all the js functions and the 3r party plugins.
  * Framework website: www.framework-y.com
